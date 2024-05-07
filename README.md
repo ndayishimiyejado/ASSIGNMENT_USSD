@@ -10,15 +10,15 @@ Features
 •	Admin panel: Administrators have access to a dashboard to manage quizzes, questions, and user accounts.
 How it works?
 By using the postman, the user will register and take quiz.
-	Registration of user
-	Username/name
-	Gender(male/female)
-	Email
-	College
-	phoneNumber
-	password
-	confirm password
-	User will take the quiz.
+                  	Registration of user
+                  	Username/name
+                  	Gender(male/female)
+                  	Email
+                  	College
+                  	phoneNumber
+                  	password
+                  	confirm password
+                  	User will take the quiz.
 This will depends on  the phone number,once the phone number is registered, user on postman will see the following view:
 
 CON Welcome to Online Examination System
